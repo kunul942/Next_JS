@@ -1,0 +1,8 @@
+/**ProductSlideshow */
+
+.each-slide > div {
+    display: flex;
+    justify-content: center;
+    background-size: center;
+    height: 650px;
+}
